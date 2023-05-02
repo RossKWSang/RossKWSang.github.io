@@ -31,7 +31,7 @@ github_username:  jekyll
 
 # Build settings
 # theme: minima
-remote_theme: ejjoo/jekyll-theme-monos
+remote_theme: artemsheludko/flexton
 plugins:
   - jekyll-feed
 
