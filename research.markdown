@@ -1,3 +1,9 @@
+---
+layout: page
+title: Research
+permalink: /research/
+---
+
 <!DOCTYPE html>
 <html lang="ko">
 <head>
